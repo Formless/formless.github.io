@@ -1,7 +1,7 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-		siteUrl: `https://formless.github.io.netlify.com/`,
+		siteUrl: `https://formless.github.io`,
     name: `Peter Le`,
     role: ``,
     email: `PeterALe1@gmail.com`,
